@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif"  />
+  <img height="400" src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif"  />
 </div>
 
 # Hi 👋🏽, I’m Arpan Surin
