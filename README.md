@@ -7,8 +7,11 @@
 - 🧠 I'm currently learning Data Structures in C lnaguage.
 - ⚡ Fun fact: I also like playing sports like Basketball & Football.
 
-![CodeChef - Problem Solver](https://cdn.codechef.com/images/badges/problem/bronze.svg)
-(CodeChef - Problem Solver: Bronze badge)
+<div style="text-align: center;">
+    <img src="https://cdn.codechef.com/images/badges/problem/bronze.svg" alt="CodeChef - Problem Solver: Bronze badge" title="CodeChef - Problem Solver: Bronze badge">
+    <p>CodeChef - Problem Solver: Bronze badge</p>
+</div>
+
 ###
 
 # 🛠️ Tech Stack
@@ -44,9 +47,10 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-surin-490711270/)\
 [![Gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](https://surinarpan23@gmail.com/)
 
-Check out my CodeChef profile:\
+**Check out my other profiles:**\
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/arpan_surin)\
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Arpan_2314/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/arpansurin1234)
 
 ###
 
