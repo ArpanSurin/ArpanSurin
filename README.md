@@ -3,11 +3,12 @@
 </div>
 
 # Hi 👋🏽, I’m Arpan Surin
-- 👀 I’m interested in Machine Learning & Web Development 
-- 🧠 I'm currently learning React.JS
-- ⚡ Fun fact: I also like playing sports like Basketball & Football
+- 👀 I’m interested in Machine Learning & Web Development.
+- 🧠 I'm currently learning Data Structures in C lnaguage.
+- ⚡ Fun fact: I also like playing sports like Basketball & Football.
 
 ![CodeChef - Problem Solver](https://cdn.codechef.com/images/badges/problem/bronze.svg)
+(CodeChef - Problem Solver: Bronze badge)
 ###
 
 # 🛠️ Tech Stack
@@ -31,6 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
 </div>
 
 ### 
@@ -39,7 +44,9 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-surin-490711270/)\
 [![Gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](https://surinarpan23@gmail.com/)
 
-Check out my CodeChef profile: [arpan_surin](https://www.codechef.com/users/arpan_surin)
+Check out my CodeChef profile:\
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/arpan_surin)\
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Arpan_2314/)
 
 ###
 
