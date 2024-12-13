@@ -7,6 +7,7 @@
 - 🧠 I'm currently learning React.JS
 - ⚡ Fun fact: I also like playing sports like Basketball & Football
 
+![CodeChef - Problem Solver](https://cdn.codechef.com/images/badges/problem/bronze.svg)
 ###
 
 # 🛠️ Tech Stack
@@ -37,6 +38,8 @@
 # 📫 How to reach me ?
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-surin-490711270/)\
 [![Gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](https://surinarpan23@gmail.com/)
+
+Check out my CodeChef profile: [arpan_surin](https://www.codechef.com/users/arpan_surin)
 
 ###
 
