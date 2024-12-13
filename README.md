@@ -47,11 +47,11 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-surin-490711270/)
 [![Gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](https://surinarpan23@gmail.com/)
 
-**Check out my other profiles:**\
+**Check out my other profiles:**
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/arpan_surin)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/arpansurin1234)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Arpan_2314/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yourusername)
+[![HackerRank](https://img.shields.io/badge/HackerRank-1A7F5A?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/yourusername)
+[![LeetCode](https://img.shields.io/badge/LeetCode-DD8800?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
 
 ###
 
