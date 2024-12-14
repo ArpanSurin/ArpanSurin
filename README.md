@@ -7,10 +7,18 @@
 - 🧠 I'm currently learning Data Structures in C lnaguage.
 - ⚡ Fun fact: I also like playing sports like Basketball & Football.
 
-<div style="text-align: center;">
-    <img src="https://cdn.codechef.com/images/badges/problem/bronze.svg" alt="CodeChef - Problem Solver: Bronze badge" title="CodeChef - Problem Solver: Bronze badge">
-    <p>CodeChef - Problem Solver: Bronze badge</p>
+<div style="text-align: center; display: flex; justify-content: center; gap: 20px;">
+    <div style="text-align: center;">
+        <img src="https://cdn.codechef.com/images/badges/problem/bronze.svg" alt="CodeChef - Problem Solver: Bronze badge" title="CodeChef - Problem Solver: Bronze badge" style="width: 100px; height: auto;">
+        <p style="margin: 0; font-size: 14px;">CodeChef - Problem Solver: Bronze badge</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://hrcdn.net/fcore/assets/badges/c-d1985901e6.svg" alt="HackerRank Badge" title="HackerRank Badge" style="width: 100px; height: auto;">
+        <p style="margin: 0; font-size: 14px;">HackerRank - C Language: bronze Badge</p>
+    </div>
 </div>
+
+
 
 ###
 
