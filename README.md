@@ -4,7 +4,7 @@
 
 # Hi 👋🏽, I’m Arpan Surin
 - 👀 I’m interested in Machine Learning & Web Development.
-- 🧠 I'm currently learning Data Structures in C lnaguage.
+- 🧠 I'm currently learning Data Structures in C language.
 - ⚡ Fun fact: I also like playing sports like Basketball & Football.
 
 <div style="text-align: center; display: flex; justify-content: center; gap: 20px;">
@@ -14,7 +14,7 @@
     </div>
     <div style="text-align: center;">
         <img src="https://hrcdn.net/fcore/assets/badges/c-d1985901e6.svg" alt="HackerRank Badge" title="HackerRank Badge" style="width: 100px; height: auto;">
-        <p style="margin: 0; font-size: 14px;">HackerRank - C Language: bronze Badge</p>
+        <p style="margin: 0; font-size: 14px;">HackerRank - C Language: Silver Badge</p>
     </div>
 </div>
 
