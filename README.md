@@ -7,17 +7,27 @@
 - 🧠 I'm currently learning Data Structures in C language.
 - ⚡ Fun fact: I also like playing sports like Basketball & Football.
 
-<div style="text-align: center; display: flex; justify-content: center; gap: 20px;">
-    <div style="text-align: center;">
-        <img src="https://cdn.codechef.com/images/badges/problem/bronze.svg" alt="CodeChef - Problem Solver: Bronze badge" title="CodeChef - Problem Solver: Bronze badge" style="width: 100px; height: auto;">
-        <p style="margin: 0; font-size: 14px;">CodeChef - Problem Solver: Bronze badge</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://hrcdn.net/fcore/assets/badges/c-d1985901e6.svg" alt="HackerRank Badge" title="HackerRank Badge" style="width: 100px; height: auto;">
-        <p style="margin: 0; font-size: 14px;">HackerRank - C Language: Silver Badge</p>
-    </div>
-</div>
+## 🏆 Badges
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.codechef.com/images/badges/problem/bronze.svg" width="100px" height="auto" alt="CodeChef - Bronze">
+      <br>
+      <strong>CodeChef - Bronze</strong>
+    </td>
+    <td align="center">
+      <img src="https://hrcdn.net/fcore/assets/badges/c-d1985901e6.svg" width="100px" height="auto" alt="HackerRank - C Silver">
+      <br>
+      <strong>HackerRank - C Silver</strong>
+    </td>
+    <td align="center">
+      <img src="https://hrcdn.net/fcore/assets/badges/java-9d05b1f559.svg" width="100px" height="auto" alt="HackerRank - Java Bronze">
+      <br>
+      <strong>HackerRank - Java Bronze</strong>
+    </td>
+  </tr>
+</table>
 
 
 ###
