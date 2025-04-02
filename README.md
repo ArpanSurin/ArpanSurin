@@ -2,6 +2,24 @@
   <img height="400" src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif"  />
 </div>
 
+# 🏆 Badges
+<p align="center">
+  <a href="#" title="LeetCode Badge">
+    <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" 
+         alt="LeetCode February challenge" 
+         width="250" 
+         height="250"
+         style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+  </a>
+  
+  <a href="#" title="Pandas Course">
+    <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" 
+         alt="LeetCode Pandas study plan" 
+         width="250" 
+         height="250"
+         style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+  </a>
+</p>
 
 # 💫 About Me
 🔭 I'm currently working on a Machine Learning Project.<br>🧠 I'm learning Data Structures & Gen AI.<br>🤝 I'm looking for help with Backend development.<br>💻 I'm also a Frontend developer.<br>🌱 I'm currently open for remote Job opportunities.
@@ -11,12 +29,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_arpan_surin) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-surin-490711270/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surinarpan23@gmail.com) 
 
+
+  
 # 🧑🏾‍💻 Coding Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-DD8800?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yourusername)
 [![HackerRank](https://img.shields.io/badge/HackerRank-1A7F5A?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/yourusername)
 
-<!-- # 🏆 Badges -->
 
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
