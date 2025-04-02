@@ -7,16 +7,16 @@
   <a href="#" title="LeetCode Badge">
     <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" 
          alt="LeetCode February challenge" 
-         width="250" 
-         height="250"
+         width="200" 
+         height="200"
          style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
   </a>
   
   <a href="#" title="Pandas Course">
     <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" 
          alt="LeetCode Pandas study plan" 
-         width="250" 
-         height="250"
+         width="200" 
+         height="200"
          style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
   </a>
 </p>
