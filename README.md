@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif"  />
+  <img height="300" src="https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif"  />
 </div>
 
 
@@ -13,6 +13,14 @@
 
 # 🏆 Badges
 <p align="center">
+  <a href="#" title="LeetCode Badge">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" 
+         alt="LeetCode February challenge" 
+         width="200" 
+         height="200"
+         style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+  </a>
+  
   <a href="#" title="LeetCode Badge">
     <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" 
          alt="LeetCode February challenge" 
