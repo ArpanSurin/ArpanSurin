@@ -4,7 +4,11 @@
 
 
 # 💫 About Me
-🔭 I'm currently working on a Machine Learning Project.<br>🧠 I'm learning Data Structures & Gen AI.<br>🤝 I'm looking for help with Backend development.<br>💻 I'm also a Frontend developer.<br>🌱 I'm currently open for remote Job opportunities.
+🔭 I'm currently working on a Data Engineering Project.<br>
+🧠 I'm learning Data Structures & Data Science.<br>
+🤝 I'm looking for help with Backend web development.<br>
+💻 I'm also a Frontend developer.<br>
+🌱 I'm currently open for remote Job opportunities.
 
 
 # 🌐 Socials
