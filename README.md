@@ -17,17 +17,26 @@
 
 # 🏆 Badges
 <p align="center">
-  <a href="#" title="LeetCode Badge">
-    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" 
+  
+  <a href="#" title="LeetCode February Badge">
+    <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" 
          alt="LeetCode February challenge" 
          width="200" 
          height="200"
          style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
   </a>
+
+  <a href="#" title="LeetCode 50 days Badge">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" 
+         alt="LeetCode 50 days" 
+         width="200" 
+         height="200"
+         style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+  </a>
   
-  <a href="#" title="LeetCode Badge">
-    <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" 
-         alt="LeetCode February challenge" 
+  <a href="#" title="LeetCode 100 days Badge">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" 
+         alt="LeetCode 100 days"
          width="200" 
          height="200"
          style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
@@ -41,7 +50,8 @@
          style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
   </a>
 </p>
-  
+
+
 # 🧑🏾‍💻 Coding Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-DD8800?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yourusername)
