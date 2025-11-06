@@ -53,9 +53,10 @@
 
 
 # 🧑🏾‍💻 Coding Profiles
-[![LeetCode](https://img.shields.io/badge/LeetCode-DD8800?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yourusername)
-[![HackerRank](https://img.shields.io/badge/HackerRank-1A7F5A?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/yourusername)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Arpan_Surin)
+[![LeetCode](https://img.shields.io/badge/LeetCode-DD8800?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Arpan_2314/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/arpan_surin)
+[![HackerRank](https://img.shields.io/badge/HackerRank-1A7F5A?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/arpansurin1234)
 
 
 # 💻 Tech Stack
